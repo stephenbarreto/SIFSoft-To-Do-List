@@ -24,7 +24,7 @@ Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
 
 Contato
-Se você tiver alguma dúvida ou precisar de ajuda, entre em contato conosco em seu-email@example.com.
+Se você tiver alguma dúvida ou precisar de ajuda, entre em contato conosco em stephendias@hotmail.com.br.
 
 ## Persistência de Dados
 Os dados da lista de tarefas são persistentes graças ao uso do armazenamento local (LocalStorage) do navegador. Isso permite que os dados permaneçam disponíveis mesmo após fechar a página ou reiniciar o navegador. O código JavaScript no projeto cuida do armazenamento e recuperação dos dados no LocalStorage.
