@@ -16,6 +16,7 @@ O SIFSoft To-Do List é uma aplicação simples de lista de tarefas que permite 
 ## Instalação e Requisitos
 
 Não é necessário instalação. Basta abrir o arquivo `index.html` em um navegador da web.
+Pode Tambem ser acessado por esse link https://65294fce4b271a44ea634f66--courageous-crumble-5a8fa2.netlify.app/
 
 Contribuição
 Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição.
