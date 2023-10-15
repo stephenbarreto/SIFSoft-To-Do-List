@@ -46,3 +46,6 @@ localStorage.setItem('tarefasData', JSON.stringify(savedData));
 var savedData = JSON.parse(localStorage.getItem('tarefasData')) || { tarefas: [], concluidas: [] };
 
 Lembre-se de que o LocalStorage tem limitações de espaço de armazenamento e não sincroniza dados entre dispositivos.
+
+## Referências 
+https://warcontent.com/localstorage-javascript/
